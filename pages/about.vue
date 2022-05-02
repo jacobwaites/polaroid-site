@@ -20,7 +20,10 @@
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
             ratione rem repudiandae sit!
           </p>
-
+          <img src="./static/polaroidimages/polaroid1.jpg"/>
+          <img src="./static/polaroidimages/polaroid2.jpg"/>
+          <img src="./static/polaroidimages/polaroid3.jpg"/>
+          <img src="./static/polaroidimages/polaroid4.jpg"/>
           <h3>Another Fake Heading</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
